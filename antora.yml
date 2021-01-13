@@ -43,7 +43,7 @@ nav:
   # Retail Guide
   - modules/retail/nav-retail-guide.adoc
 
-    # Large Deployment Guide
+  # Large Deployment Guide
   - modules/large-deployments/nav-large-deployments-guide.adoc
 
   # Quickstart Guide: Public Cloud
